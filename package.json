@@ -1,6 +1,6 @@
 {
   "name": "koa-better-vhost",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "vhost for koajs.",
   "main": "index.js",
   "scripts": {
