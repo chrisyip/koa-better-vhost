@@ -1,0 +1,26 @@
+{
+  "name": "koa-better-vhost",
+  "version": "0.0.0",
+  "description": "vhost for koajs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisyip/koa-better-vhost.git"
+  },
+  "author": "Chris Yip <chris@yesui.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisyip/koa-better-vhost/issues"
+  },
+  "homepage": "https://github.com/chrisyip/koa-better-vhost#readme",
+  "dependencies": {
+    "koa-compose": "^2.3.0",
+    "lodash": "^3.10.1"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
